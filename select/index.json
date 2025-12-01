@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "tape",
+  "base_artist": "muque",
+  "createdAt": "2025-12-01T09:52:41.770063Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Ingenting Å Tape",
+      "artist": "Svartepetter feat. Bøbben",
+      "has_synced": true,
+      "path": "select/01_Ingenting_Å_Tape_Svartepetter_feat._Bøbben.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Ingenting å tape",
+      "artist": "Svartepetter",
+      "has_synced": true,
+      "path": "select/02_Ingenting_å_tape_Svartepetter.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Angel Down - Work Tape",
+      "artist": "Lady Gaga",
+      "has_synced": true,
+      "path": "select/03_Angel_Down_-_Work_Tape_Lady_Gaga.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Angel Down (Work Tape)",
+      "artist": "Lady Gaga",
+      "has_synced": false,
+      "path": "select/04_Angel_Down_(Work_Tape)_Lady_Gaga.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Tape Loop",
+      "artist": "Morcheeba",
+      "has_synced": false,
+      "path": "select/05_Tape_Loop_Morcheeba.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Speechless Tape",
+      "artist": "NGLY",
+      "has_synced": false,
+      "path": "select/06_Speechless_Tape_NGLY.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Tape You",
+      "artist": "N.E.R.D",
+      "has_synced": false,
+      "path": "select/07_Tape_You_N.E.R.D.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Medusa (Joey Belladonna Demo / 12/9/1984 Rhythm Track Tape Version)",
+      "artist": "Anthrax",
+      "has_synced": false,
+      "path": "select/08_Medusa_(Joey_Belladonna_Demo___12_9_1984_Rhythm_Track_Tape_Version)_Anthrax.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Paperface (Kitchen Tape Demo)",
+      "artist": "Weezer",
+      "has_synced": false,
+      "path": "select/09_Paperface_(Kitchen_Tape_Demo)_Weezer.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Tape Loop (Diabolical Brothers mix)",
+      "artist": "Morcheeba",
+      "has_synced": false,
+      "path": "select/10_Tape_Loop_(Diabolical_Brothers_mix)_Morcheeba.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Tapestry",
+      "artist": "Carole King",
+      "has_synced": false,
+      "path": "select/pl_01_Tapestry_Carole_King.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Taped Up Heart (feat. Clara Mae)",
+      "artist": "Carole King",
+      "has_synced": false,
+      "path": "select/pl_02_Taped_Up_Heart_(feat._Clara_Mae)_Carole_King.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Tapestry",
+      "artist": "Carole King",
+      "has_synced": false,
+      "path": "select/pl_03_Tapestry_Carole_King.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "tape drug (remastered)",
+      "artist": "Carole King",
+      "has_synced": false,
+      "path": "select/pl_04_tape_drug_(remastered)_Carole_King.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Taped up Heart (feat. Clara Mae)",
+      "artist": "Carole King",
+      "has_synced": false,
+      "path": "select/pl_05_Taped_up_Heart_(feat._Clara_Mae)_Carole_King.txt"
+    }
+  ]
+}
